@@ -1,0 +1,89 @@
+{
+  "ItemName": "Log Panel",
+  "Type": "Furniture",
+  "TextureWidth": 16,
+  "TextureHeight": 48,
+  "Variations": 3,
+  "Animation": [
+  {
+      "Frame": 0,
+      "Duration": 250
+    },
+    {
+      "Frame": 1,
+      "Duration": 250
+    },
+    {
+      "Frame": 2,
+      "Duration": 250
+    },
+    {
+      "Frame": 3,
+      "Duration": 250
+    },
+    {
+      "Frame": 4,
+      "Duration": 250
+    },
+    {
+      "Frame": 5,
+      "Duration": 250
+    },
+    {
+      "Frame": 6,
+      "Duration": 250
+    },
+    {
+      "Frame": 7,
+      "Duration": 250
+    },
+    {
+      "Frame": 8,
+      "Duration": 250
+    },
+    {
+      "Frame": 9,
+      "Duration": 250
+    },
+    {
+      "Frame": 10,
+      "Duration": 250
+    },
+    {
+      "Frame": 11,
+      "Duration": 250
+    },
+    {
+      "Frame": 12,
+      "Duration": 250
+    },
+    {
+      "Frame": 13,
+      "Duration": 250
+    },
+    {
+      "Frame": 14,
+      "Duration": 250
+    },
+    {
+      "Frame": 15,
+      "Duration": 250
+    },
+    {
+      "Frame": 16,
+      "Duration": 250
+    },
+    {
+      "Frame": 17,
+      "Duration": 250
+    },
+    {
+      "Frame": 18,
+      "Duration": 250
+    },
+    {
+      "Frame": 19,
+      "Duration": 250
+    },
+  ]
+}

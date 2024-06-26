@@ -1,0 +1,12 @@
+{
+  "Name": "[AT] Fairytale Furniture",
+  "Author": "StarAmy",
+  "Version": "1.0.0",
+  "Description": "Adds a number of enchanted furniture pieces.",
+  "UniqueID": "StarAmy.Custom.FairyFurniture",
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "3.3.0"
+  }
+		
+}

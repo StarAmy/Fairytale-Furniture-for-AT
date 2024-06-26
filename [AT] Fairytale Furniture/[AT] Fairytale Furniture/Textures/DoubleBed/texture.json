@@ -1,0 +1,25 @@
+{
+  "ItemName": "Double Bed",
+  "Type": "Furniture",
+  "TextureWidth": 96,
+  "TextureHeight": 64,
+  "Variations": 3,
+  "Animation": [
+  {
+      "Frame": 0,
+      "Duration": 250
+    },
+    {
+      "Frame": 1,
+      "Duration": 250
+    },
+    {
+      "Frame": 2,
+      "Duration": 250
+    },
+    {
+      "Frame": 3,
+      "Duration": 250
+    },
+  ]
+}
